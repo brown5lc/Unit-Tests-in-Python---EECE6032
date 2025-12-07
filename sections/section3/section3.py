@@ -1,0 +1,1 @@
+# Test all four methods from Calculations class

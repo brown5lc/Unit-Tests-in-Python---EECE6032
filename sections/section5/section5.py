@@ -1,0 +1,1 @@
+# Run another test, but this time, from the command line. Both files. 
